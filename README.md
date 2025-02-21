@@ -3,8 +3,6 @@ Proposta de solução para o problema com precificação de frentes. (hipotétic
 
 ##Solução Proposta:
 
-###Otimização da Integração com Transportadoras:
-
 Implementar comunicação assíncrona para não bloquear o fluxo principal.
 Utilizar APIs de transportadoras que ofereçam alta performance e tempos de resposta rápidos.
 Implementar um sistema de contingência para lidar com falhas nas APIs das transportadoras.

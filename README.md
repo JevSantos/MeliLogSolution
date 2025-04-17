@@ -1,5 +1,5 @@
 # MeliLogSolution
-Proposta de solução para o problema com precificação de frentes. (hipotético)
+Proposta de solução para o problema com precificação de fretes. (hipotético)
 
 ## Solução Proposta:
 
